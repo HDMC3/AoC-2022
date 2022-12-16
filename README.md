@@ -17,5 +17,6 @@ Recopilacion de mis soluciones a los problemas del Advent of Code 2022.
 | [04](./D04/) | ⭐ | ⭐ |
 | [05](./D05/) | ⭐ | ⭐ |
 | [06](./D06/) | ⭐ | ⭐ |
+| [07](./D07/) | ⭐ | ⭐ |
 
 </div>
