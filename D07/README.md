@@ -1,4 +1,7 @@
 # __--- Día 7: No queda espacio en el dispositivo ---__
+
+> https://adventofcode.com/2022/day/7
+
 Puede escuchar el canto de los pájaros y las gotas de lluvia golpeando las hojas a medida que avanza la expedición. De vez en cuando, incluso puedes escuchar sonidos mucho más fuertes en la distancia; ¿Qué tamaño tienen los animales aquí, de todos modos?
 
 El dispositivo que te dieron los Elfos tiene problemas con algo más que su sistema de comunicación. Intenta ejecutar una actualización del sistema:

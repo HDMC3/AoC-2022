@@ -1,4 +1,7 @@
 # __--- Día 6: Problema de afinación ---__
+
+> https://adventofcode.com/2022/day/6
+
 Los preparativos finalmente están completos; tú y los Elfos abandonan el campamento a pie y comienzan a dirigirse hacia el bosque de carambolas.
 
 Mientras te mueves a través de la densa maleza, uno de los Elfos te da un dispositivo de mano. Él dice que tiene muchas características sofisticadas, pero la más importante para configurar en este momento es el sistema de comunicación.
