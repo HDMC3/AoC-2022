@@ -21,5 +21,6 @@ Recopilacion de mis soluciones a los problemas del Advent of Code 2022.
 | [09](./D09/) |   ⭐    |   ⭐    |
 | [10](./D10/) |   ⭐    |   ⭐    |
 | [11](./D11/) |   ⭐    |   ➖    |
+| [12](./D12/) |   ⭐    |   ⭐    |
 
 </div>
