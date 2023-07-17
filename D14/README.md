@@ -1,5 +1,7 @@
 # **--- Día 14: Embalse Regolith ---**
 
+> https://adventofcode.com/2022/day/14
+
 ¡La señal de socorro te lleva a una cascada gigante! En realidad, espera - la señal parece venir de la propia cascada, y eso no tiene ningún sentido. Sin embargo, te das cuenta de que hay un pequeño camino **detrás** de la cascada.
 
 Corrección: ¡la señal de socorro te lleva detrás de una cascada gigante! Parece que hay un gran sistema de cuevas aquí, y la señal definitivamente lleva más adentro.
@@ -136,12 +138,11 @@ Una vez que las **`24`** unidades de arena mostradas arriba se han detenido, tod
 
 Utilizando tu escáner, simula la caída de la arena. **¿Cuántas unidades de arena se detienen antes de que la arena empiece a fluir hacia el abismo?**
 
-
-## __--- Segunda parte ---__
+## **--- Segunda parte ---**
 
 Te das cuenta de que has leído mal el escáner. No hay un vacío infinito en la parte inferior del escáner - ¡hay suelo, y estás de pie sobre él!
 
-No tienes tiempo de escanear el suelo, así que supones que el suelo es una línea horizontal infinita con una coordenada `y` igual a __dos más la coordenada__ `y` más alta de cualquier punto de tu escaneo.
+No tienes tiempo de escanear el suelo, así que supones que el suelo es una línea horizontal infinita con una coordenada `y` igual a **dos más la coordenada** `y` más alta de cualquier punto de tu escaneo.
 
 En el ejemplo anterior, la coordenada `y` más alta de cualquier punto es `9`, por lo que el suelo está en `y=11`. (Esto es como si su escaneo contuviera una línea horizontal infinita). (Esto es como si su exploración contuviera una ruta de roca extra como `-infinito,11 -> infinito,11`.) Con el suelo añadido, el ejemplo anterior ahora se ve así:
 
@@ -160,7 +161,7 @@ En el ejemplo anterior, la coordenada `y` más alta de cualquier punto es `9`, p
 <-- etc #################### etc -->
 ```
 
-Para encontrar un lugar seguro, tendrás que simular la caída de arena hasta que una unidad de arena se detenga en `500,0`, bloqueando la fuente por completo y deteniendo el flujo de arena hacia la cueva. En el ejemplo anterior, la situación queda así después de que __`93`__ unidades de arena se hayan detenido:
+Para encontrar un lugar seguro, tendrás que simular la caída de arena hasta que una unidad de arena se detenga en `500,0`, bloqueando la fuente por completo y deteniendo el flujo de arena hacia la cueva. En el ejemplo anterior, la situación queda así después de que **`93`** unidades de arena se hayan detenido:
 
 ```
 ............o............
@@ -177,4 +178,4 @@ Para encontrar un lugar seguro, tendrás que simular la caída de arena hasta qu
 #########################
 ```
 
-Utilizando tu escáner, simula la caída de arena hasta que la fuente de la arena se bloquee. __¿Cuántas unidades de arena caen?__
+Utilizando tu escáner, simula la caída de arena hasta que la fuente de la arena se bloquee. **¿Cuántas unidades de arena caen?**
